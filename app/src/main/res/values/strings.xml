@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">Taller Sqlite</string>
+    <string-array name="barrios">
+        <item>Adela de Char</item>
+        <item>Alameda del Río</item>
+        <item>Alfonso López</item>
+        <item>Alfonso López</item>
+        <item>Altamira</item>
+        <item>Altos de Riomar</item>
+        <item>Altos del Limón</item>
+        <item>Altos del Prado</item>
+        <item>Altos del Prado</item>
+        <item>América</item>
+        <item>Andalucía</item>
+        <item>Atlántico</item>
+        <item>Barrio Abajo</item>
+        <item>Barlovento</item>
+        <item>Bella Arenas</item>
+        <item>Bellavista</item>
+        <item>Bernando Hoyos</item>
+        <item>Betania</item>
+        <item>Boston</item>
+        <item>Boyacá</item>
+        <item>Buena Esperanza</item>
+        <item>Buenos Aires</item>
+        <item>Buenos Aires</item>
+        <item>California</item>
+        <item>Campo Alegre</item>
+        <item>Caribe Verde</item>
+        <item>Carlos Meisel</item>
+        <item>Carrizal</item>
+        <item>Centro</item>
+        <item>Cevillar</item>
+        <item>Cevillar</item>
+        <item>Chiquinquirá</item>
+        <item>Chiquinquirá</item>
+        <item>Ciudad Jardín</item>
+        <item>Ciudad Modesto</item>
+        <item>Ciudadela 20 de Julio</item>
+        <item>Ciudadela 20 de Julio (suroriente)</item>
+        <item>Ciudadela de La Paz</item>
+        <item>Ciudadela de La Salud</item>
+        <item>Colina Campestre</item>
+        <item>Colombia</item>
+        <item>Conjunto Residencial Prados Del Edén</item>
+        <item>Cordialidad</item>
+        <item>Corrigimiento Juan Mina</item>
+        <item>Cuchilla de Villate</item>
+        <item>El Boliche</item>
+        <item>El Bosque</item>
+        <item>El Campito</item>
+        <item>El Carmen</item>
+        <item>El Castillo</item>
+        <item>El Country</item>
+        <item>El Edén</item>
+        <item>El Ferri</item>
+        <item>El Golf</item>
+        <item>El Golf</item>
+        <item>El Golfo</item>
+        <item>El Limoncito</item>
+        <item>El Limón</item>
+        <item>El Milagro</item>
+        <item>El Poblado</item>
+        <item>El Porvenir</item>
+        <item>El Prado</item>
+        <item>El Pueblo</item>
+        <item>El Recreo</item>
+        <item>El Recreo</item>
+        <item>El Romance</item>
+        <item>El Rosario</item>
+        <item>El Rubí</item>
+        <item>El Santuario</item>
+        <item>El Silencio</item>
+        <item>El Tabor</item>
+        <item>El Valle</item>
+        <item>Evaristo Sourdi</item>
+        <item>Gerlein y Villate</item>
+        <item>Granadillo</item>
+        <item>José Antonio Galán</item>
+        <item>Juan Mina</item>
+        <item>Kalamary</item>
+        <item>Kennedy</item>
+        <item>La Arboraya</item>
+        <item>La Arboraya</item>
+        <item>La Campiña</item>
+        <item>La Castellana</item>
+        <item>La Ceiba</item>
+        <item>La Chinita</item>
+        <item>La Concepción</item>
+        <item>La Cumbre</item>
+        <item>La Esmeralda</item>
+        <item>La Felicidad</item>
+        <item>La Floresta</item>
+        <item>La Florida</item>
+        <item>La Gloria</item>
+        <item>La Libertad</item>
+        <item>La Luz</item>
+        <item>La Magdalena</item>
+        <item>La Manga</item>
+        <item>La Paz</item>
+        <item>La Playa</item>
+        <item>La Pradera</item>
+        <item>La Sierra</item>
+        <item>La Sierra</item>
+        <item>La Unión</item>
+        <item>La Victoria</item>
+        <item>La Victoria (suroriente)</item>
+        <item>Las Américas</item>
+        <item>Las Colinas</item>
+        <item>Las Colinas</item>
+        <item>Las Delicias</item>
+        <item>Las Dunas</item>
+        <item>Las Estrellas</item>
+        <item>Las Flores</item>
+        <item>Las Gardenias</item>
+        <item>Las Granjas</item>
+        <item>Las Malvinas</item>
+        <item>Las Mercedes</item>
+        <item>Las Nieves</item>
+        <item>Las Palmas</item>
+        <item>Las Terrazas</item>
+        <item>Las Tres Avemarías</item>
+        <item>Lipaya</item>
+        <item>Loma Fresca</item>
+        <item>Los Alpes</item>
+        <item>Los Andes</item>
+        <item>Los Continentes</item>
+        <item>Los Girasoles</item>
+        <item>Los Jobos</item>
+        <item>Los Laureles</item>
+        <item>Los Nogales</item>
+        <item>Los Olivos</item>
+        <item>Los Pinos</item>
+        <item>Los Rosales</item>
+        <item>Los Trupillos</item>
+        <item>Los Ángeles</item>
+        <item>Lucero</item>
+        <item>Me Quejo</item>
+        <item>Mercedes Sur</item>
+        <item>Miramar</item>
+        <item>Modelo</item>
+        <item>Moderno</item>
+        <item>Montecristo</item>
+        <item>Montes</item>
+        <item>Nueva Colombia</item>
+        <item>Nueva Granada</item>
+        <item>Nuevo Horizonte</item>
+        <item>Nuevo Horizonte</item>
+        <item>Olaya</item>
+        <item>Paraíso</item>
+        <item>Paraíso</item>
+        <item>Pasadena</item>
+        <item>Pinar del Río</item>
+        <item>Por Fin</item>
+        <item>Pumarejo</item>
+        <item>Rebolo</item>
+        <item>Riomar</item>
+        <item>San Felipe</item>
+        <item>San Francisco</item>
+        <item>San Isidro</item>
+        <item>San José</item>
+        <item>San José</item>
+        <item>San José (suroccidente)</item>
+        <item>San Luis</item>
+        <item>San Marino</item>
+        <item>San Nicolás</item>
+        <item>San Roque</item>
+        <item>San Salvador</item>
+        <item>San Vicente</item>
+        <item>Santa Ana</item>
+        <item>Santa Helena</item>
+        <item>Santa María</item>
+        <item>Santa Mónica</item>
+        <item>Santo Domingo</item>
+        <item>Siape</item>
+        <item>Siete de Abril</item>
+        <item>Siete de Agosto</item>
+        <item>Simón Bolívar</item>
+        <item>Solaire</item>
+        <item>Tayrona</item>
+        <item>Terrenos Pastoral Social</item>
+        <item>Universal I y II</item>
+        <item>Urbanización Colinas Campestre Edén 2000</item>
+        <item>Urbanización El Pueblo</item>
+        <item>Urbanización La Luz</item>
+        <item>Urbanización La Playa</item>
+        <item>Urbanización Las Cayenas</item>
+        <item>Urbanización Villas de San Pablo</item>
+        <item>Veinte de Julio</item>
+        <item>Villa Blanca</item>
+        <item>Villa campestre</item>
+        <item>Villa Carolina</item>
+        <item>Villa del Carmen</item>
+        <item>Villa del Este</item>
+        <item>Villa Del Rosario</item>
+        <item>Villa Flor</item>
+        <item>Villa San Carlos</item>
+        <item>Villa San Pablo</item>
+        <item>Villa San Pedro Alejandrino</item>
+        <item>Villa San Pedro I Etapa</item>
+        <item>Villa San Pedro II</item>
+        <item>Villa Santos</item>
+        <item>Villa Sevilla</item>
+        <item>Villanueva</item>
+        <item>Villate</item>
+    </string-array>
+</resources>

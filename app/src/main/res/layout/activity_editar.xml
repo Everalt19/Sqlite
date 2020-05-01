@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    >
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EDITAR DONACION"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:textColor="#000000"
+        />
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/etEditarNombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="Nombre"
+            android:inputType="textPersonName"
+            android:textColorHighlight="@color/colorAccent" />
+
+    </android.support.design.widget.TextInputLayout>
+
+   <android.support.design.widget.TextInputLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <EditText
+           android:id="@+id/etEditarDireccion"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="20dp"
+           android:ems="10"
+           android:hint="Direccion"
+           android:inputType="textPersonName" />
+   </android.support.design.widget.TextInputLayout>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Barrio"
+        android:textSize="12sp"
+        android:textColor="#7d7d7d"
+        android:layout_marginLeft="6dp"
+
+        />
+
+    <Spinner
+        android:id="@+id/spin_barrios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/barrios"
+        android:layout_marginBottom="8dp"
+
+        />
+
+
+    <Button
+        android:id="@+id/btnGuardarCambiosDonacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Guardar"
+        android:background="#086F99"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/btnCancelarEdicionDonacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Cancelar"
+        android:background="#086F99"
+        android:textColor="#ffffff"
+        />
+
+</LinearLayout>
